@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project aims to investigate the efficacy of various sampling techniques for generating a balanced dataset to train a machine learning model. The original dataset is imbalanced, thus, random over-sampling and under-sampling methods are employed to balance it. After achieving a balanced dataset, five distinct sampling techniques are implemented and the resulting samples are evaluated for accuracy using five different machine learning models.
+This project aims to investigate the efficacy of various sampling techniques for generating a balanced dataset to train a machine learning model. The original dataset is imbalanced, thus, over sampling methods are employed to balance it. After achieving a balanced dataset, four distinct sampling techniques are implemented and the resulting samples are evaluated for accuracy using five different machine learning models.
 
 ## Sampling Techniques
 
